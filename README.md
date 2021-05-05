@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Shubhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseii2122&show_icons=true&theme=radical)
+<!--      ![Shubhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseii2122&show_icons=true&theme=radical)
 
 
 <!--

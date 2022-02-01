@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--      ![Shubhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseii2122&show_icons=true&theme=radical)
-
+I'm Shubhankar, a 20 year old developer, researcher and Computer Science Student. Checkout my Repos for a gist of my work.
+I love working on things I have no clue about.
 
 <!--
 **koseii2122/koseii2122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
